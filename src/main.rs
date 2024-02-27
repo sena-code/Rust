@@ -1,5 +1,5 @@
 fn main() {
-    let total_fibo: usize = 10;
+    let total_fibo: usize = 8;
     fibonacci_ret(total_fibo);
 }
 
